@@ -1,3 +1,7 @@
+"""
+Made By Rafli
+Please dont delete this credit
+"""
 import pygame
 import random as rd
 
