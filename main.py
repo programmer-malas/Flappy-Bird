@@ -1,5 +1,5 @@
 """
-Made By Rafli
+Made by Rafli
 Please dont delete this credit
 """
 import pygame
